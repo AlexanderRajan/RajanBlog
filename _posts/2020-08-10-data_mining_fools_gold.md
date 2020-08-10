@@ -8,7 +8,7 @@ published: true
 ---
 # [Data mining fool’s gold - Gary Smith](https://journals.sagepub.com/doi/abs/10.1177/0268396220915600)
 
-Data mining fool's gold, by [Gary Smith](https://garysmithn.com/) highlights several issues with data mining, and the failures of data scientists (and other researchers) to be aware of and mitigate these dangers.
+Data Mining Fool's Gold, by [Gary Smith](https://garysmithn.com/) highlights several issues with data mining, and the failures of data scientists (and other researchers) to be aware of and mitigate these dangers.
 
 ## Background 
 Smith's invited [article](https://journals.sagepub.com/doi/abs/10.1177/0268396220915600) in the [Journal of Information Technology](https://journals.sagepub.com/home/jina) highlights several patterns that are endemic to data science: failure of ML methods to distinguish between correlation vs causation, post-hoc rationalization by researchers, and the statistical likelihood of feature selection methods to identify meaningless relationships as the scale of data increases. He posits that the reversal of the scientific method (putting data before theory) leads to a lot of false positives in identifying meaningful relationships from clusters and correlations, which in turn are wasteful (in time and resources).
