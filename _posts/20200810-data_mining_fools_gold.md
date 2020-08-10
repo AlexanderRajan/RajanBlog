@@ -1,7 +1,10 @@
 ---
-permalink: /_posts/fools_gold/
-categories: data_science
+permalink: foolsgold/
+categories: posts
+tags: data_science
+title: foolsgold
 published: true
+
 ---
 # [Data mining fool’s gold - Gary Smith](https://journals.sagepub.com/doi/abs/10.1177/0268396220915600)
 

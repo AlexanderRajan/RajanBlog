@@ -13,3 +13,10 @@ title: "Documents"
 [Author's page](https://garysmithn.com) - [SAGE journals](https://journals.sagepub.com/doi/abs/10.1177/0268396220915600) - [pdf](/assets/docs/fools_gold.pdf)
 
 ## Internal Documents
+
+[Fool's Gold](/_posts/foolsgold/)
+
+[Fool's Gold](/posts/foolsgold/)
+
+
+omg wtf urls
