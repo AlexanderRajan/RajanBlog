@@ -1,5 +1,5 @@
 ---
-permalink: foolsgold/
+# permalink: foolsgold/
 categories: posts
 tags: data_science
 title: foolsgold
