@@ -2,7 +2,7 @@
 # permalink: foolsgold/
 categories: posts
 tags: data_science
-title: foolsgold
+title: Fool's Gold
 published: true
 
 ---
