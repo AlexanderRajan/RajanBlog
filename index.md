@@ -3,7 +3,7 @@ layout: single
 permalink: /
 author_profile: true
 title: "About"
-toc: true
+toc: false
 ---
 
 This site is in development.

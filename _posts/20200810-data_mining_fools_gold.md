@@ -1,6 +1,6 @@
 ---
-published: false
-permalink: /_posts/fools_gold
+published: true
+permalink: /posts/fools_gold
 ---
 # [Data mining fool’s gold - Gary Smith](https://journals.sagepub.com/doi/abs/10.1177/0268396220915600)
 
@@ -37,3 +37,23 @@ Here's one of my favorite articles describing HARKing, here in the [context of g
 I should add, in closing, that this is not a general indictment of data science, machine learning, data mining, or exploratory analyses. Rather, it is a warning against leaping to conclusions from what should be considered an initial analysis, and certainly against productionalizing or bringing to market something based solely on data mining.
 
 ## The need for experimental methods
+A word of encouragement and caution
+
+Research is increasingly computational, but non-computational methods are as important as ever.
+For example, a lot of immuno oncology and precision medicine startups hoping to reduce the landscape of potential small molecules to drive drug discovery
+Before testing and validating those therapeutics
+
+There is a perception of exceptionalism in data science/machine learning practitioners, and public
+That more data and fancier algorithms and tweaking parameters and pipelines will solve everything
+
+But non-computational methods are critical to confirm data mining approaches
+Computational methods do open up nuances and options that weren’t available before, at speeds and scales that weren’t possible before
+But perturbations and interventions to alter systems, both for studying the systems but also to validate therapeutics
+
+
+Additionally, computational methods don’t always simplify problems, but rather add complexities that weren’t previously anticipated
+
+One of the big lessons from the human genome project, did not lead to the revolution in therapeutics and precision medicine that were suggested, 
+but has instead opened up entirely new lines of enquiry, around things like non-coding RNAs, formerly dark areas of the genome, and host-microbe interactions
+
+That either very few people were aware of, or were largely intractable problems
