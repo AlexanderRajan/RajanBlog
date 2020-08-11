@@ -1,12 +1,14 @@
 # main links
 main:
+  - title: "Home"
+    url: /
   - title: "Posts"
     # url: /posts/
     url: /year-archive/
   - title: "Documents"
     url: /documents/
   - title: "About"
-    url: /
+    url: /about/
   - title: "CV/Resume"
     url: "assets/docs/Rajan Resume + Pubs.pdf"
   

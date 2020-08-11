@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /
+permalink: /about/
 author_profile: true
 title: "About"
 toc: false
