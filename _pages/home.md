@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   # overlay_color: "#5e616c"
-  overlay_image: "/assets/images/labpano.tif"
+  overlay_image: "/assets/images/invite.jpg"
   overlay_filter: "0.5"
   overlay_padding: 10 10 10 10
   
