@@ -57,7 +57,7 @@ There are two key characteristics of muscles: their structure (striated or smoot
 
 * Skeletal muscle
 
-   These are what most people think of when they think “muscle.”
+   These are what most people think of when they think “muscle.” The attach to bones with tendons, and exert force on your skeleton to create movement and exert force on objects.
    AKA "voluntary muscle" because they are the muscles that move when you choose to make a movement. They are voluntarily contracted (and in reflexes) to move your body by moving your skeleton.  
    There are two types of skeletal muscles: fast twitch and slow twitch fibers. 
    
@@ -71,6 +71,10 @@ There are two key characteristics of muscles: their structure (striated or smoot
    
    * Most striated muscles are parallel, where all of the cells that exert force work in the same direction. This leads to the largest change in length.
    * Some muscles are pennate, or feather shaped. These muscles can generate more force, but change length less and are slower. ![pennate muscle](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Pennation_angle_of_fibers_in_pennate_muscle.png/330px-Pennation_angle_of_fibers_in_pennate_muscle.png "Pennate muscle")
+   * Hydrostats, unlike other skeletal muscles, move themselves instead of bones. Think of your tongue, or an elephant's trunk, which can grasp objects, push food around, and change shape to create different sounds during talking.
+   
+   When people study muscles, some of the key measurements are muscle length, fiber length, pennation angle, and cross-sectional area (thickness). These measurements can be used to calculate how much force a muscle can generate and how quickly the joint can move.
+   
 
 * Cardiac muscle
 
