@@ -113,19 +113,17 @@ Stuff about muscles (stretching and depolarization of muscle cells)
 Respiration
 
 ## motor control in the brain
-Descending signals - Christopher Reeve
+
+### Descending signals - Christopher Reeve
+
 Prefrontal - premotor - motor
+
 Spinal cord - muscles
-Modifiers
+
+### Modifiers
+
 Cerebellum (this part has been written already)
+
 Basal Ganglia
-10.4 Movement disorders (Austin will write this stuff)
-Parkinson’s disease - MJFox, Mohammed Ali
-Symptoms, prevalence
-Historical approaches to treatment
-Dopamine loss
-Sidebar about the 6-ohda people
-Dopamine replacement therapy
-Ataxia
-Dystonia
-Huntington's disease
+
+### Sensory feedback
