@@ -6,24 +6,36 @@ published: false
 
 ## Overview
 
-The motor system is how we control our body. It is involved in planning and executing movements, but also im pumping blood and digesting food. The two key roles of the motor system is to plan, control, and execute voluntary (deliberate) movements, and to control involuntary (subconscious or automatic) functions.
+The motor system is how we control our body. It is involved in planning and executing movements, but also in pumping blood and digesting food. The two key roles of the motor system is to plan, control, and execute voluntary (deliberate) movements, and to control involuntary (subconscious or automatic) functions.
 
 In a voluntary movement, neural activity in the frontal lobe sends commands down to motoneurons located in the brainstem or spinal cord, which in turn project on to muscles. Motoneurons are the only neurons that innervate skeletal muscles. When and only when a motoneuron fires does a skeletal muscle contract.
 
-The motor pathway is a hierarchy because information flows down far more than it flows back up. Motor cortex is the boss and motoneurons are the workers. And the motor pathway is not into back talk. That said, there is some information flow upwards as information from sensory receptors in the muscles and skin is fed back into the system, reaching both motoneurons and also (eventually) forebrain motor control centers.
+In the motor hierarchy information flows down from the brain to muscles far more than it flows back up. The brain is the boss and muscles are the workers. That said, there is some information flow upwards as information from sensory receptors in the muscles and skin is fed back into the system, reaching both motoneurons and also (eventually) forebrain motor control centers.
 
-As mentioned above, there are both voluntary and involuntary motor functions. Usually people think of deliberate movements and the voluntary skeletal muscles when thinking about the motor system, but here we'll discus both.
+This chapter will be organized as follows:
+* Muscles
+  * Muscle types
+  * Components of muscles
+  * Motor unites
+  * Muscle functions
+* Neuromuscular junction - control of muscles
+* Spinal cord - reflexes
+* Motor cortex - motor control
+* Motor modifiers - cerebellum & basal ganglia
+* Sensory feedback - proprioception & somatosensory cortex
+* Movement disorders
+  * Parkinson's disease
+  * Ataxia
+  * Dystonia
+  * Huntington's disease
+  * Rare diseases? PKAN, beriberi
+
+  
+
+As mentioned above, there are both voluntary and involuntary motor functions. Usually people think of deliberate movements and the voluntary skeletal muscles when thinking about the motor system. Here we'll describe skeletal muscle in the most detail, as they are the most studied, and provide information about how cardiac and smooth muscle are different.
 
 ## Muscles
 Muscles cause all movement, so we'll start there too.
-
-### Muscle components
-
-* Muscle fibers
-   
-   The smallest functional unit
-   All muscles are made up of muscle fibers. They are the 
-![muscle fibers](https://upload.wikimedia.org/wikipedia/commons/d/dd/1007_Muscle_Fibes_%28large%29.jpg "Muscle Fibers")
 
 ### Muscle types
 There are two key characteristics of muscles: their structure (striated or smooth), and whether they can be voluntarily controlled. Based on these characteristics, there are three types of muscles in vertebrates (and humans).
@@ -46,6 +58,16 @@ There are two key characteristics of muscles: their structure (striated or smoot
 
    These are the muscles embedded within organs like your stomach and intestines, blood vessels, and baldder. 
    They are also known as "involuntary" muscles because they are not under direct conscious control. 
+
+### Muscle components
+
+* Muscle fibers
+   
+   The smallest functional unit of muscles are sarcomere
+   All muscles are made up of muscle fibers. They are the 
+![muscle fibers](https://upload.wikimedia.org/wikipedia/commons/d/dd/1007_Muscle_Fibes_%28large%29.jpg "Muscle Fibers")
+
+
    
 ### Motor units
 Groups of organized muscles
