@@ -67,7 +67,7 @@ There are two key characteristics of muscles: their structure (striated or smoot
    
    Muscles come in several different shapes, defined by the arrangement of their fibers and how they connect to tendons.
    
-   ![muscle shapes](https://www.teachpe.com/wp-content/uploads/2019/08/shapes-muscle595.jpg Shapes of skeletal muscles)
+   ![muscle shapes](https://www.teachpe.com/wp-content/uploads/2019/08/shapes-muscle595.jpg "Shapes of skeletal muscles")
    
    * Most striated muscles are parallel, where all of the cells that exert force work in the same direction. This leads to the largest change in length.
    * Some muscles are pennate, or feather shaped. These muscles can generate more force, but change length less and are slower. ![pennate muscle](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Pennation_angle_of_fibers_in_pennate_muscle.png/330px-Pennation_angle_of_fibers_in_pennate_muscle.png "Pennate muscle")
