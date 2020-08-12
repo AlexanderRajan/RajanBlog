@@ -17,8 +17,8 @@ There are two key characteristics of muscles: their structure (striated or smoot
 
 |   | Striated | Smooth |
 |---|---|---|
-| *Voluntary* | Skeletal muscle |   |
-| *Involuntary* | Cardiac muscle | Smooth muscle |
+| **Voluntary** | Skeletal muscle |   |
+| **Involuntary** | Cardiac muscle | Smooth muscle |
 
 
 #### Striated muscles
