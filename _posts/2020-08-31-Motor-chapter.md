@@ -44,13 +44,16 @@ When people study muscles, some of the key measurements are where they connect t
 
 ### Muscle components - fasciles, fibers, and sarcomeres
 
-Muscles are made up of muscle fibers. They are the 
+Individual muscles, such as your biceps brachii, are made up of several muscle fascicles, which in turn are made up of muscle fibers. Muscle fibers are the individual cells in which contraction occurs. The functional units for contraction are called sarcomeres. Here's where smallest unit of movement happens! It is the aggregated activity of hundreds of thousands of sarcomeres within each muscle fiber that generates the force with which you walk your dog, chew your food, and even what beats your heart.
+
 ![muscle fibers](https://upload.wikimedia.org/wikipedia/commons/d/dd/1007_Muscle_Fibes_%28large%29.jpg "Muscle Fibers")
 
    The smallest functional unit of muscles are sarcomeres. 
    ![sarcomere diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sarcomere.svg/450px-Sarcomere.svg.png "Sarcomere diagram")
    
    ![sarcomere image](http://www.pradeepluther.com/pklwork19may02/images/frog-ls-f27175.jpg "Sarcomere image")
+   
+   The (contr)action within sarcomeres happens between actin and myosin. Actin are thin filaments that form the scaffolding, and myosin are thick filaments that pull the actin together, shortening the sarcomere and contracting the muscle.
    
 
 
