@@ -12,7 +12,7 @@ In a voluntary movement, neural activity in the frontal lobe sends commands down
 
 In the motor hierarchy information flows down from the brain to muscles far more than it flows back up. The brain is the boss and muscles are the workers. That said, there is some information flow upwards as information from sensory receptors in the muscles and skin is fed back into the system, reaching both motoneurons and also (eventually) forebrain motor control centers.
 
-This chapter will be organized as follows:
+This chapter we will cover:
 * Muscles
   * Muscle types
   * Components of muscles
@@ -42,13 +42,17 @@ The main thing that muscles do is contract, and they tend to get wider as they g
 
 When people study muscles, some of the key measurements are where they connect to the bone, how long they are, how thick they are, and what type of muscle fibers they are made of. These measurements can be used to calculate how much force a muscle can generate and how quickly the joint can move.
 
-### Muscle components
+### Muscle components - fasciles, fibers, and sarcomeres
 
-* Muscle fibers
-   
-   The smallest functional unit of muscles are sarcomeres. 
-   All muscles are made up of muscle fibers. They are the 
+Muscles are made up of muscle fibers. They are the 
 ![muscle fibers](https://upload.wikimedia.org/wikipedia/commons/d/dd/1007_Muscle_Fibes_%28large%29.jpg "Muscle Fibers")
+
+   The smallest functional unit of muscles are sarcomeres. 
+   ![sarcomere diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sarcomere.svg/450px-Sarcomere.svg.png "Sarcomere diagram")
+   
+   ![sarcomere image](http://www.pradeepluther.com/pklwork19may02/images/frog-ls-f27175.jpg "Sarcomere image")
+   
+
 
 ### Muscle types
 There are two key characteristics of muscles: their structure (striated or smooth), and whether they can be voluntarily controlled. Based on these characteristics, there are three types of muscles in vertebrates (and humans).
@@ -61,7 +65,15 @@ There are two key characteristics of muscles: their structure (striated or smoot
 * Skeletal muscle
 
    These are what most people think of when they think “muscle.” The attach to bones with tendons, and exert force on your skeleton to create movement and exert force on objects.
-   AKA "voluntary muscle" because they are the muscles that move when you choose to make a movement. They are voluntarily contracted (and in reflexes) to move your body by moving your skeleton.  
+   
+   !(bone tendon muscle)[https://training.seer.cancer.gov/images/anatomy/muscular/muscle_structure.jpg "Bone, tendon, muscle"]
+   Muscles are connected to your bones via tendons. While you can train and grow muscles with exercise, your tendons and bones pretty much stay the same. Make sure you don't overwork your tendons! They don't recover as quickly as muscle.
+   
+   Skeletal muscles are also called "voluntary muscles" because they are the muscles that move when you choose to make a movement. They are voluntarily contracted (and in reflexes) to move your body by moving your skeleton.  
+   
+   
+   
+   
    There are two types of skeletal muscles: fast twitch and slow twitch fibers. 
    
    * Fast twitch muscles generate a lot of force quickly, but also tire quickly. They are used mostly in high intensity exercise like lifting weights and sprinting.  
@@ -86,12 +98,11 @@ There are two key characteristics of muscles: their structure (striated or smoot
    These are the muscles embedded within organs like your stomach and intestines, blood vessels, and baldder. 
    They are also known as "involuntary" muscles because they are not under direct conscious control. 
 
-
-
-
-   
-### Motor units
+### Motor units & motor pools
 Groups of organized muscles
+Motor neuron and the muscle fibers it innervates
+Groups of motor unites work together to coordinate contractions within a single muscle
+A motor pool is all of the individual neurons that innervate a single muscle
 
 
 ### Muscle functions
@@ -99,7 +110,16 @@ Muscles contract
     Leads to changes in shape - usually shortening, but sometimes not!
     Strength vs speed (form and function)
 
-Muscles in opposition
+Muscles in cooperation and opposition
+Agonists, synergists, fixators, and antagonists
+![synergy](https://opentextbc.ca/anatomyandphysiology/wp-content/uploads/sites/142/2016/03/1101_Biceps_Muscle.jpg "Muscles coordinate")
+The agonist is the main mover, like the biceps brachii when you flex your elbow. It's movement is supported by synergistic muscles, including the brachialis and brachioradialis. These can also be fixators, providing stability and preventing or allowing rotation of the wrist while flexing at the elbow. Antagonist muscles are those that move in the opposite direction to the agonist. For the elbow, this is the triceps bracii, which is how you extend your elbow. Another example of an agonist-antagonist pair are the hamstrings to flex the leg, and the gradriceps to extend it.
+
+Muscles tend to be proximal to the joint that they move. Your pectoralis muscles are proximal to your shoulder, and your biceps brachii are prixmal to your elbow. When splinting a bone, you want to secure the joints on both sides of the bone; when splinting a joint, you want to secure the bones on both sides of the joint.
+
+Dynamic stretching increases bloodflow to muscles and tendons and is a good way to prevent injuries by stretching before exercise. However, stretching can't prevent overuse injuries or damage to tendons. Passive stretching (after exercise) can be useful to decrease muscle soreness.
+
+Lactic acid build up & DOMS
 
 Control of digestion, bladder, blood vessels, etc
 
