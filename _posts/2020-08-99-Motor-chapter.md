@@ -12,6 +12,11 @@ Overview of motor system (why motor is so closely tied with somatosensory, big p
 
 All movement starts with muscles
 
+### Muscle components
+
+Muscle fibers
+![muscle fibers](https://upload.wikimedia.org/wikipedia/commons/d/dd/1007_Muscle_Fibes_%28large%29.jpg "Muscle Fibers")
+
 ### Muscle types
 There are two key characteristics of muscles: their structure (striated or smooth), and whether they can be voluntarily controlled. Based on these characteristics, there are three types of muscles in vertebrates (and humans).
 
@@ -20,12 +25,11 @@ There are two key characteristics of muscles: their structure (striated or smoot
 | **Voluntary** | Skeletal muscle |   |
 | **Involuntary** | Cardiac muscle | Smooth muscle |
 
-
-#### Striated muscles
 * Skeletal muscle
 
    These are what most people think of when they think “muscle.”
-   AKA "voluntary muscle" because they are the muscles that move when you choose to make a movement. They are voluntarily contracted (and in reflexes) to move your body by moving your skeleton  
+   AKA "voluntary muscle" because they are the muscles that move when you choose to make a movement. They are voluntarily contracted (and in reflexes) to move your body by moving your skeleton.  
+   Skeletal muscles are composed of 
 * Cardiac muscle
 
    Can be thought of as a hybrid between skeletal muscles and smooth muscles, in that they are structured like skeletal muscles (striated muscles) but not under conscious control. 
@@ -34,11 +38,15 @@ There are two key characteristics of muscles: their structure (striated or smoot
 
    These are the muscles embedded within organs like your stomach and intestines, blood vessels, and baldder. 
    They are also known as "involuntary" muscles because they are not under direct conscious control. 
+   
+### Motor units
+Groups of organized muscles
 
 
 ### Muscle functions
 Muscles contract
     Leads to changes in shape - usually shortening, but sometimes not!
+    Strength vs speed (form and function)
 
 Muscles in opposition
 
