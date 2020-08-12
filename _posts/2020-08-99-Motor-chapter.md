@@ -23,12 +23,15 @@ There are two key characteristics of muscles: their structure (striated or smoot
 
 #### Striated muscles
 * Skeletal muscle
+
    These are what most people think of when they think “muscle.”
    AKA "voluntary muscle" because they are the muscles that move when you choose to make a movement. They are voluntarily contracted (and in reflexes) to move your body by moving your skeleton  
 * Cardiac muscle
+
    Can be thought of as a hybrid between skeletal muscles and smooth muscles, in that they are structured like skeletal muscles (striated muscles) but not under conscious control. 
    
 * Smooth muscle
+
    These are the muscles embedded within organs like your stomach and intestines, blood vessels, and baldder. 
    They are also known as "involuntary" muscles because they are not under direct conscious control. 
 
