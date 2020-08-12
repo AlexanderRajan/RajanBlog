@@ -37,6 +37,16 @@ As mentioned above, there are both voluntary and involuntary motor functions. Us
 ## Muscles
 Muscles cause all movement, so we'll start there too.
 
+Change in length vs generation of force. The main thing that muscles do is contract, and they tend to get wider as they get shorter. As you flex your arm starting from fully extended, your bicep changes from long and thin to short and thick. Since muscles move different joints and have different bodily functions, they have different structures. 
+
+### Muscle components
+
+* Muscle fibers
+   
+   The smallest functional unit of muscles are sarcomeres. 
+   All muscles are made up of muscle fibers. They are the 
+![muscle fibers](https://upload.wikimedia.org/wikipedia/commons/d/dd/1007_Muscle_Fibes_%28large%29.jpg "Muscle Fibers")
+
 ### Muscle types
 There are two key characteristics of muscles: their structure (striated or smooth), and whether they can be voluntarily controlled. Based on these characteristics, there are three types of muscles in vertebrates (and humans).
 
@@ -49,7 +59,19 @@ There are two key characteristics of muscles: their structure (striated or smoot
 
    These are what most people think of when they think “muscle.”
    AKA "voluntary muscle" because they are the muscles that move when you choose to make a movement. They are voluntarily contracted (and in reflexes) to move your body by moving your skeleton.  
-   There are two types of skeletal muscles: fast and slow twitch fibers.
+   There are two types of skeletal muscles: fast twitch and slow twitch fibers. 
+   
+   * Fast twitch muscles generate a lot of force quickly, but also tire quickly. They are used mostly in high intensity exercise like lifting weights and sprinting.  
+   * Slow twitch muscles generate less force, but can work for a long time. They are used in endurance exercise like jogging.
+   (Many exercises use a mix of both).
+   
+   Muscles come in several different shapes, defined by the arrangement of their fibers and how they connect to tendons.
+   
+   ![muscle shapes](https://www.teachpe.com/wp-content/uploads/2019/08/shapes-muscle595.jpg Shapes of skeletal muscles)
+   
+   * Most striated muscles are parallel, where all of the cells that exert force work in the same direction. This leads to the largest change in length.
+   * Some muscles are pennate, or feather shaped. These muscles can generate more force, but change length less and are slower. ![pennate muscle](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Pennation_angle_of_fibers_in_pennate_muscle.png/330px-Pennation_angle_of_fibers_in_pennate_muscle.png "Pennate muscle")
+
 * Cardiac muscle
 
    Can be thought of as a hybrid between skeletal muscles and smooth muscles, in that they are structured like skeletal muscles (striated muscles) but not under conscious control. 
@@ -59,13 +81,7 @@ There are two key characteristics of muscles: their structure (striated or smoot
    These are the muscles embedded within organs like your stomach and intestines, blood vessels, and baldder. 
    They are also known as "involuntary" muscles because they are not under direct conscious control. 
 
-### Muscle components
 
-* Muscle fibers
-   
-   The smallest functional unit of muscles are sarcomere
-   All muscles are made up of muscle fibers. They are the 
-![muscle fibers](https://upload.wikimedia.org/wikipedia/commons/d/dd/1007_Muscle_Fibes_%28large%29.jpg "Muscle Fibers")
 
 
    
