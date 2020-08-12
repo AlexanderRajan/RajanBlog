@@ -32,12 +32,15 @@ This chapter will be organized as follows:
 
   
 
-As mentioned above, there are both voluntary and involuntary motor functions. Usually people think of deliberate movements and the voluntary skeletal muscles when thinking about the motor system. Here we'll describe skeletal muscle in the most detail, as they are the most studied, and provide information about how cardiac and smooth muscle are different.
+As mentioned above, there are both voluntary and involuntary motor functions. Usually people think of deliberate movements and the voluntary skeletal muscles when thinking about the motor system. Here we'll describe skeletal muscle in the most detail, as they are the most studied, and provide information along the way about how cardiac and smooth muscle are different.
 
 ## Muscles
-Muscles cause all movement, so we'll start there too.
 
-Change in length vs generation of force. The main thing that muscles do is contract, and they tend to get wider as they get shorter. As you flex your arm starting from fully extended, your bicep changes from long and thin to short and thick. Since muscles move different joints and have different bodily functions, they have different structures. 
+You can't move without muscles, so we'll start there!
+
+The main thing that muscles do is contract, and they tend to get wider as they get shorter. As you flex your arm starting from fully extended, your bicep changes from long and thin to short and thick. Different muscles have different characteristics driven by their shape and composition. For example, some muscles can be active for a long time without getting tired (maintaining your posture in your chair as you read this) while others can exert a lot of force but get tired quickly (lifting weights in the gym).
+
+When people study muscles, some of the key measurements are where they connect to the bone, how long they are, how thick they are, and what type of muscle fibers they are made of. These measurements can be used to calculate how much force a muscle can generate and how quickly the joint can move.
 
 ### Muscle components
 
@@ -72,8 +75,6 @@ There are two key characteristics of muscles: their structure (striated or smoot
    * Most striated muscles are parallel, where all of the cells that exert force work in the same direction. This leads to the largest change in length.
    * Some muscles are pennate, or feather shaped. These muscles can generate more force, but change length less and are slower. ![pennate muscle](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Pennation_angle_of_fibers_in_pennate_muscle.png/330px-Pennation_angle_of_fibers_in_pennate_muscle.png "Pennate muscle")
    * Hydrostats, unlike other skeletal muscles, move themselves instead of bones. Think of your tongue, or an elephant's trunk, which can grasp objects, push food around, and change shape to create different sounds during talking.
-   
-   When people study muscles, some of the key measurements are muscle length, fiber length, pennation angle, and cross-sectional area (thickness). These measurements can be used to calculate how much force a muscle can generate and how quickly the joint can move.
    
 
 * Cardiac muscle
