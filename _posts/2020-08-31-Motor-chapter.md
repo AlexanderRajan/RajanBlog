@@ -2,6 +2,8 @@
 published: false
 ---
 
+old junk: https://sensitivemotor.wordpress.com/2014/05/09/motor-system/
+
 # 10. Motor system
 
 ## Overview
