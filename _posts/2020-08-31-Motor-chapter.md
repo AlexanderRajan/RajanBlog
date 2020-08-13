@@ -48,13 +48,16 @@ Individual muscles, such as your biceps brachii, are made up of several muscle f
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/1007_Muscle_Fibes_%28large%29.jpg" alt="Muscle Fibers" width="400"/>
 
-   The smallest functional unit of muscles are sarcomeres. 
-   ![sarcomere diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sarcomere.svg/450px-Sarcomere.svg.png "Sarcomere diagram")
+The smallest functional unit of muscles are sarcomeres. This diagram shows 3 sarcomeres in parallel, with the thin actin filaments in blue, and thick myosin filaments in red.
    
-   ![sarcomere image](http://www.pradeepluther.com/pklwork19may02/images/frog-ls-f27175.jpg "Sarcomere image")
-   
-   The (contr)action within sarcomeres happens between actin and myosin. Actin are thin filaments that form the scaffolding, and myosin are thick filaments that pull the actin together, shortening the sarcomere and contracting the muscle. Although each sarcomere is small (1.5 to 3.5 µm), many are stacked back to back along the length of each fiber, pulling against each other to contract through the whole range of your joints. Many sarcomeres (and fibers and fasciles) bundled in parallel provide the combined force that give muscles strength.   
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sarcomere.svg/450px-Sarcomere.svg.png" alt="Sarcomere diagram" width = 400/>
 
+The (contr)action within sarcomeres happens between actin and myosin. Actin are thin filaments that form the scaffolding, and myosin are thick filaments that pull the actin together, shortening the sarcomere and contracting the muscle. Although each sarcomere is small (1.5 to 3.5 µm), many are stacked back to back along the length of each fiber, pulling against each other to contract through the whole range of your joints. Many sarcomeres (and fibers and fasciles) bundled in parallel provide the combined force that give muscles strength.
+
+Sarcomeres are visible under a microscipe: 
+
+<img src="http://www.pradeepluther.com/pklwork19may02/images/frog-ls-f27175.jpg" alt="Sarcomere image" width = 400/>
+   
 
 ### Muscle types
 There are two key characteristics of muscles: their structure (striated or smooth), and whether they can be voluntarily controlled. Based on these characteristics, there are three types of muscles in vertebrates (and humans).
