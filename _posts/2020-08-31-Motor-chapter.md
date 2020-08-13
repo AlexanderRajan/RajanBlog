@@ -53,8 +53,7 @@ Individual muscles, such as your biceps brachii, are made up of several muscle f
    
    ![sarcomere image](http://www.pradeepluther.com/pklwork19may02/images/frog-ls-f27175.jpg "Sarcomere image")
    
-   The (contr)action within sarcomeres happens between actin and myosin. Actin are thin filaments that form the scaffolding, and myosin are thick filaments that pull the actin together, shortening the sarcomere and contracting the muscle.
-   
+   The (contr)action within sarcomeres happens between actin and myosin. Actin are thin filaments that form the scaffolding, and myosin are thick filaments that pull the actin together, shortening the sarcomere and contracting the muscle. Although each sarcomere is small (1.5 to 3.5 µm), many are stacked back to back along the length of each fiber, pulling against each other to contract through the whole range of your joints. Many sarcomeres (and fibers and fasciles) bundled in parallel provide the combined force that give muscles strength.   
 
 
 ### Muscle types
