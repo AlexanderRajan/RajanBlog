@@ -66,7 +66,7 @@ There are two key characteristics of muscles: their structure (striated or smoot
 
 * Skeletal muscle
 
-   These are what most people think of when they think “muscle.” The attach to bones with tendons, and exert force on your skeleton to create movement and exert force on objects.
+   These are what most people think of when they think “muscle.” They attach to bones with tendons, and exert force on your skeleton to create movement and exert force on objects.
    
    !(bone tendon muscle)[https://training.seer.cancer.gov/images/anatomy/muscular/muscle_structure.jpg "Bone, tendon, muscle"]
    Muscles are connected to your bones via tendons. While you can train and grow muscles with exercise, your tendons and bones pretty much stay the same. Make sure you don't overwork your tendons! They don't recover as quickly as muscle.
