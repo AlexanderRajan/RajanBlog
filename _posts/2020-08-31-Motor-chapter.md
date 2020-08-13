@@ -50,13 +50,13 @@ Individual muscles, such as your biceps brachii, are made up of several muscle f
 
 The smallest functional unit of muscles are sarcomeres. This diagram shows 3 sarcomeres in parallel, with the thin actin filaments in blue, and thick myosin filaments in red.
    
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sarcomere.svg/450px-Sarcomere.svg.png" alt="Sarcomere diagram" width = 400/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sarcomere.svg/450px-Sarcomere.svg.png" alt="Sarcomere diagram" width=400/>
 
 The (contr)action within sarcomeres happens between actin and myosin. Actin are thin filaments that form the scaffolding, and myosin are thick filaments that pull the actin together, shortening the sarcomere and contracting the muscle. Although each sarcomere is small (1.5 to 3.5 µm), many are stacked back to back along the length of each fiber, pulling against each other to contract through the whole range of your joints. Many sarcomeres (and fibers and fasciles) bundled in parallel provide the combined force that give muscles strength.
 
 Sarcomeres are visible under a microscipe: 
 
-<img src="http://www.pradeepluther.com/pklwork19may02/images/frog-ls-f27175.jpg" alt="Sarcomere image" width = 400/>
+<img src="http://www.pradeepluther.com/pklwork19may02/images/frog-ls-f27175.jpg" alt="Sarcomere image" width=400/>
    
 
 ### Muscle types
@@ -71,7 +71,7 @@ There are two key characteristics of muscles: their structure (striated or smoot
 
    These are what most people think of when they think “muscle.” They attach to bones with tendons, and exert force on your skeleton to create movement and exert force on objects.
    
-   !(bone tendon muscle)[https://training.seer.cancer.gov/images/anatomy/muscular/muscle_structure.jpg "Bone, tendon, muscle"]
+   <img src="https://training.seer.cancer.gov/images/anatomy/muscular/muscle_structure.jpg" alt="Bone, tendon, muscle" width=400/>
    Muscles are connected to your bones via tendons. While you can train and grow muscles with exercise, your tendons and bones pretty much stay the same. Make sure you don't overwork your tendons! They don't recover as quickly as muscle.
    
    Skeletal muscles are also called "voluntary muscles" because they are the muscles that move when you choose to make a movement. They are voluntarily contracted (and in reflexes) to move your body by moving your skeleton.  
@@ -87,10 +87,10 @@ There are two key characteristics of muscles: their structure (striated or smoot
    
    Muscles come in several different shapes, defined by the arrangement of their fibers and how they connect to tendons.
    
-   ![muscle shapes](https://www.teachpe.com/wp-content/uploads/2019/08/shapes-muscle595.jpg "Shapes of skeletal muscles")
+   <img src="https://www.teachpe.com/wp-content/uploads/2019/08/shapes-muscle595.jpg" alt="Shapes of skeletal muscles" width=400)
    
    * Most striated muscles are parallel, where all of the cells that exert force work in the same direction. This leads to the largest change in length.
-   * Some muscles are pennate, or feather shaped. These muscles can generate more force, but change length less and are slower. ![pennate muscle](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Pennation_angle_of_fibers_in_pennate_muscle.png/330px-Pennation_angle_of_fibers_in_pennate_muscle.png "Pennate muscle")
+   * Some muscles are pennate, or feather shaped. These muscles can generate more force, but change length less and are slower. 
    * Hydrostats, unlike other skeletal muscles, move themselves instead of bones. Think of your tongue, or an elephant's trunk, which can grasp objects, push food around, and change shape to create different sounds during talking.
    
 
@@ -116,9 +116,14 @@ Muscles contract
     Strength vs speed (form and function)
 
 Muscles in cooperation and opposition
+
 Agonists, synergists, fixators, and antagonists
-![synergy](https://opentextbc.ca/anatomyandphysiology/wp-content/uploads/sites/142/2016/03/1101_Biceps_Muscle.jpg "Muscles coordinate")
+
 The agonist is the main mover, like the biceps brachii when you flex your elbow. It's movement is supported by synergistic muscles, including the brachialis and brachioradialis. These can also be fixators, providing stability and preventing or allowing rotation of the wrist while flexing at the elbow. Antagonist muscles are those that move in the opposite direction to the agonist. For the elbow, this is the triceps bracii, which is how you extend your elbow. Another example of an agonist-antagonist pair are the hamstrings to flex the leg, and the gradriceps to extend it.
+
+<img src="https://opentextbc.ca/anatomyandphysiology/wp-content/uploads/sites/142/2016/03/1101_Biceps_Muscle.jpg "Muscles coordinate" alt="synergy" width=400/>
+
+
 
 Muscles tend to be proximal to the joint that they move. Your pectoralis muscles are proximal to your shoulder, and your biceps brachii are prixmal to your elbow. When splinting a bone, you want to secure the joints on both sides of the bone; when splinting a joint, you want to secure the bones on both sides of the joint.
 
