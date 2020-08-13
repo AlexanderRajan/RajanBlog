@@ -121,7 +121,7 @@ Agonists, synergists, fixators, and antagonists
 
 The agonist is the main mover, like the biceps brachii when you flex your elbow. It's movement is supported by synergistic muscles, including the brachialis and brachioradialis. These can also be fixators, providing stability and preventing or allowing rotation of the wrist while flexing at the elbow. Antagonist muscles are those that move in the opposite direction to the agonist. For the elbow, this is the triceps bracii, which is how you extend your elbow. Another example of an agonist-antagonist pair are the hamstrings to flex the leg, and the gradriceps to extend it.
 
-<img src="https://opentextbc.ca/anatomyandphysiology/wp-content/uploads/sites/142/2016/03/1101_Biceps_Muscle.jpg alt="synergy" width=400/>
+<img src="https://opentextbc.ca/anatomyandphysiology/wp-content/uploads/sites/142/2016/03/1101_Biceps_Muscle.jpg" alt="synergy" width=400/>
 
 
 
