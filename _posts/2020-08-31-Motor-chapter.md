@@ -12,9 +12,8 @@ The motor system is how we control our body. It is involved in planning and exec
 
 The motor system is often described as a top-down process: in a voluntary movement, neural activity in the frontal lobe sends commands down to motoneurons located in the brainstem or spinal cord, which in turn activate muscles. In reality, motor control is more of a loop, with sensory information about the current posture and contact with objects informing the motor plan, and the motor plan providing predictions about upcoming movement to the somatosensory system. Without knowing where you are, it's difficult to plan a route to your destination, and getting feedback along the way helps your brain know if it needs to adjust the plan. 
 
-Accordingly, instead of thinking about motor control as top-down, it makes more sense to think of it as a loop or set of nested loops, where motor and sensory processes are closely intertwined. The main loop is the descending (from brain to muscle) motor command, and the ascending (from muscle to brain) sensory feedback, and examples of nested loops are reflexes and interactions between areas within the brain (eg, M1 & S1). <img src="/assets/images/nested loops.png" width=400/>
-
-In the motor hierarchy information flows down from the brain to muscles far more than it flows back up. The brain is the boss and muscles are the workers. That said, there is some information flow upwards as information from sensory receptors in the muscles and skin is fed back into the system, reaching both motoneurons and also (eventually) forebrain motor control centers.
+Accordingly, instead of thinking about motor control as top-down, it makes more sense to think of it as a loop or set of nested loops, where motor and sensory processes are closely intertwined. The main loop is the descending (from brain to muscle) motor command, and the ascending (from muscle to brain) sensory feedback, and examples of nested loops are reflexes and interactions between areas within the brain (eg, M1 & S1). 
+<img src="/assets/images/nested loops.png" width=400/>
 
 This chapter we will cover:
 * Muscles
@@ -34,13 +33,11 @@ This chapter we will cover:
   * Huntington's disease
   * Rare diseases? PKAN, beriberi
 
-  
-
-As mentioned above, there are both voluntary and involuntary motor functions. Usually people think of deliberate movements and the voluntary skeletal muscles when thinking about the motor system. Here we'll describe skeletal muscle in the most detail, as they are the most studied, and provide information along the way about how cardiac and smooth muscle are different.
-
 ## Muscles
 
 You can't move without muscles, so we'll start there!
+
+As mentioned above, there are both voluntary and involuntary motor functions. Usually people think of deliberate movements and the voluntary skeletal muscles when thinking about the motor system. Here we'll describe skeletal muscle in the most detail, as they are the most studied, and provide information along the way about how cardiac and smooth muscle are different.
 
 The main thing that muscles do is contract, and they tend to get wider as they get shorter. As you flex your arm starting from fully extended, your bicep changes from long and thin to short and thick. Different muscles have different characteristics driven by their shape and composition. For example, some muscles can be active for a long time without getting tired (maintaining your posture in your chair as you read this) while others can exert a lot of force but get tired quickly (lifting weights in the gym).
 
