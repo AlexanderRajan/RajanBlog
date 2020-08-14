@@ -10,7 +10,9 @@ old junk: https://sensitivemotor.wordpress.com/2014/05/09/motor-system/
 
 The motor system is how we control our body. It is involved in planning and executing movements, but also in pumping blood and digesting food. The two key roles of the motor system is to plan, control, and execute voluntary (deliberate) movements, and to control involuntary (subconscious or automatic) functions.
 
-In a voluntary movement, neural activity in the frontal lobe sends commands down to motoneurons located in the brainstem or spinal cord, which in turn project on to muscles. Motoneurons are the only neurons that innervate skeletal muscles. When and only when a motoneuron fires does a skeletal muscle contract.
+The motor system is often described as a top-down process: in a voluntary movement, neural activity in the frontal lobe sends commands down to motoneurons located in the brainstem or spinal cord, which in turn activate muscles. In reality, motor control is more of a loop, with sensory information about the current posture and contact with objects informing the motor plan, and the motor plan providing predictions about upcoming movement to the somatosensory system. Without knowing where you are, it's difficult to plan a route to your destination, and getting feedback along the way helps your brain know if it needs to adjust the plan. 
+
+Accordingly, instead of thinking about motor control as top-down, it makes more sense to think of it as a loop or set of nested loops, where motor and sensory processes are closely intertwined. The main loop is the descending (from brain to muscle) motor command, and the ascending (from muscle to brain) sensory feedback, and examples of nested loops are reflexes and interactions between areas within the brain (eg, M1 & S1). <img src="/assets/images/nested loops.png" width=400/>
 
 In the motor hierarchy information flows down from the brain to muscles far more than it flows back up. The brain is the boss and muscles are the workers. That said, there is some information flow upwards as information from sensory receptors in the muscles and skin is fed back into the system, reaching both motoneurons and also (eventually) forebrain motor control centers.
 
@@ -105,13 +107,6 @@ There are two key characteristics of muscles: their structure (striated or smoot
    These are the muscles embedded within organs like your stomach and intestines, blood vessels, and baldder. 
    They are also known as "involuntary" muscles because they are not under direct conscious control. 
 
-### Motor units & motor pools
-Groups of organized muscles
-Motor neuron and the muscle fibers it innervates
-Groups of motor unites work together to coordinate contractions within a single muscle
-A motor pool is all of the individual neurons that innervate a single muscle
-
-
 ### Muscle functions
 Muscles contract
     Leads to changes in shape - usually shortening, but sometimes not!
@@ -140,6 +135,14 @@ What triggers the muscles? Neurons!
 ## Control of muscles - NMJ
 The neuromuscular junction (NMJ) on a cellular level
 Stuff about muscles (stretching and depolarization of muscle cells)
+
+### Motor units & motor pools
+Groups of organized muscles
+Motor neuron and the muscle fibers it innervates
+Groups of motor unites work together to coordinate contractions within a single muscle
+A motor pool is all of the individual neurons that innervate a single muscle
+
+Motoneurons are the only neurons that innervate skeletal muscles. When and only when a motoneuron fires does a skeletal muscle contract.
 
 ## Reflexes  & spinal cord control 
 (knee jerk reflex) and central pattern generators (mostly for walking, decerebrate cat prep)
