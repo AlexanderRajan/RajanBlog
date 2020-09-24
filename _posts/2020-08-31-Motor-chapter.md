@@ -8,7 +8,7 @@ old junk: https://sensitivemotor.wordpress.com/2014/05/09/motor-system/
 
 ## Overview
 
-The motor system is how we control our body. It is involved in planning and executing movements, but also in pumping blood and digesting food. The two key roles of the motor system is to plan, control, and execute voluntary (deliberate) movements, and to control involuntary (subconscious or automatic) functions.
+The motor system is how we control our body. It is involved in planning and executing movements, but also in pumping blood and digesting food. The two key roles of the motor system are to plan, control, and execute voluntary (deliberate) movements, and to control involuntary (subconscious or automatic) functions.
 
 The motor system is often described as a top-down process: in a voluntary movement, neural activity in the frontal lobe sends commands down to motoneurons located in the brainstem or spinal cord, which in turn activate muscles. In reality, motor control is more of a loop, with sensory information about the current posture and contact with objects informing the motor plan, and the motor plan providing predictions about upcoming movement to the somatosensory system. Without knowing where you are, it's difficult to plan a route to your destination, and getting feedback along the way helps your brain know if it needs to adjust the plan. 
 
