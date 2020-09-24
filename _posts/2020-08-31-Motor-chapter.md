@@ -19,7 +19,7 @@ This chapter we will cover:
 * Muscles
   * Muscle types
   * Components of muscles
-  * Motor unites
+  * Motor units
   * Muscle functions
 * Neuromuscular junction - control of muscles
 * Spinal cord - reflexes
@@ -53,7 +53,7 @@ The smallest functional unit of muscles are sarcomeres. This diagram shows 3 sar
    
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sarcomere.svg/450px-Sarcomere.svg.png" alt="Sarcomere diagram" width=400/>
 
-The (contr)action within sarcomeres happens between actin and myosin. Actin are thin filaments that form the scaffolding, and myosin are thick filaments that pull the actin together, shortening the sarcomere and contracting the muscle. Although each sarcomere is small (1.5 to 3.5 µm), many are stacked back to back along the length of each fiber, pulling against each other to contract through the whole range of your joints. Many sarcomeres (and fibers and fasciles) bundled in parallel provide the combined force that give muscles strength.
+The (contr)action within sarcomeres happens between actin and myosin. Actin are thin filaments that form the scaffolding, and myosin are thick filaments that pull the actin together, shortening the sarcomere and contracting the muscle. Although each sarcomere is small (1.5 to 3.5 µm), many are stacked back to back along the length of each fiber, pulling against each other to contract through the whole range of your joints. Many sarcomeres (and fibers and fasciles) bundled in parallel provide the combined force that give muscles strength. The strength in all of your muscles comes from these tiny threads pulling against each other.
 
 Sarcomeres are visible under a microscipe: 
 
@@ -86,7 +86,7 @@ There are two key characteristics of muscles: their structure (striated or smoot
    * Slow twitch muscles generate less force, but can work for a long time. They are used in endurance exercise like jogging.
    (Many exercises use a mix of both).
    
-   Muscles come in several different shapes, defined by the arrangement of their fibers and how they connect to tendons.
+   Muscles come in several different shapes, defined by the arrangement of their fibers and how they connect to tendons. The different shapes allow for different properties: some can change length quickly, others change shape less but are stronger. Another consideration for shape is the geometry of the joint they cover: for example, pectoralis muscle reaches from your chest across your shoulder, and so the muscle is wide and flat where it connects to your sternum, and narrows to a point where it connects to your upper arm.
    
    <img src="https://www.teachpe.com/wp-content/uploads/2019/08/shapes-muscle595.jpg" alt="Shapes of skeletal muscles" width=400/>
    
