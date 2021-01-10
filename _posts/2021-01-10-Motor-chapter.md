@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 old junk: https://sensitivemotor.wordpress.com/2014/05/09/motor-system/
